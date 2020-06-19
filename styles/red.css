@@ -21,10 +21,14 @@
         text-align: left;
         font-size: 0.7em;
         font-weight: 400;
+        text-indent: 1em;
 	}
 	.red-text::selection{
         background-color: red;
         color: white;
+    }
+    .subtitle {
+        text-indent: 0;
     }
 
 	.text-block {

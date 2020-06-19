@@ -40,6 +40,9 @@
         font-weight: 400;
         text-align: left;
     }
+    .artist-text-item:hover{
+        color: blue;
+    } 
     .image-viewer {
         position: relative;
         left: 23vw;

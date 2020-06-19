@@ -20,7 +20,7 @@ figcaption a:visited {
     .blue-fake {
         position: fixed;
         width: 83%;
-        height: 83%;
+        height: 69%;
         top: 1.5em;
         left: 0.7em;
         border: 1px solid blue;
@@ -31,7 +31,7 @@ figcaption a:visited {
     .green-fake {
         position: fixed;
         width: 83%;
-        height: 83%;
+        height: 69%;
         border: 1px solid #32CD32;
         background-color: white;
         top: 3em;
@@ -41,7 +41,7 @@ figcaption a:visited {
     .red-fake {
         position: fixed;
         width: 83%;
-        height: 83%;
+        height: 69%;
         border: 1px solid red;
         background-color: white;
         top: 4.5em;
